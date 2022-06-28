@@ -5,9 +5,7 @@
 Program Sederhana dibuat dengan python3 dan API tokopedia untuk implementasi pemesanan tiket berbasis CLI ( Command Line Interface )
 
 ## Demo Aplikasi
-<p align="left">
- <img alt="replit" href="https://replit.com/@sandrocods/booking-train-cli?v=1" src="https://img.shields.io/badge/replit-000?style=for-the-badge&logo=replit&logoColor=white">
-</p>
+- [Replit](https://replit.com/@sandrocods/booking-train-cli?v=1)
 
 
 
