@@ -12,7 +12,7 @@ import string
 data_bayar = []
 
 
-def GetTrainStations():
+def GetTrainStations(data_bayar):
     keyword = input("Enter Location ex : Purwokerto\nLocation : ")
     Screen.clear()
     rc = RequestCollection()
